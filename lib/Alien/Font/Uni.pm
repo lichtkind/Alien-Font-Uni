@@ -52,7 +52,8 @@ Herbert Breunung (lichtkind@cpan.org)
 Copyright(c) 2022 by Herbert Breunung
 
 All rights reserved.  This program is free software; you can
-redistribute it and/or modify it under the GPL version 3.
+redistribute it and/or modify it under the same terms as Perl 
+itself.
 
 =cut
 
