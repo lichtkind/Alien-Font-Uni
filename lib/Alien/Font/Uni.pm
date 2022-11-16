@@ -42,8 +42,6 @@ and contributors. Licensed under OFL 1.1
 
 Herbert Breunung (lichtkind@cpan.org)
 
-=back
-
 =head1 COPYRIGHT
 
 Copyright(c) 2022 by Herbert Breunung
