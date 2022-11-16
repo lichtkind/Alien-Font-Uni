@@ -19,7 +19,7 @@ __END__
 
 =head1 NAME
 
-Alien-Font-Uni - providing Unifont (file or location)
+Alien-Font-Uni - providing Unifont file or location
 
 =head1 SYNOPSIS 
 
