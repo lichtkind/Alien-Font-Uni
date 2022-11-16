@@ -10,9 +10,6 @@ sub get_path { File::Spec->catfile( dist_dir('Alien-Font-Uni') , 'unifont-'.font
 sub font_version { '15.0.01' }
 sub font_vstring { v15.0.01  }
 
-
-# 
-
 1;
 
 __END__
@@ -21,7 +18,7 @@ __END__
 
 =head1 NAME
 
-Alien-Font-Uni - provide Unifont trutype file or location
+Alien::Font::Uni  -  provide Unifont trutype file or location
 
 =head1 SYNOPSIS 
 
