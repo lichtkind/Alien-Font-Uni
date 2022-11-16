@@ -5,7 +5,7 @@ our $VERSION = '0.0_1';
 use File::ShareDir 'dist_dir';
 use File::Spec;
  
-sub get_path { File::Spec->catfile( dist_dir(__PACKAGE__) , 'unifont-'.font_version().'.ttf') }
+sub get_path { File::Spec->catfile( dist_dir('Alien-Font-Uni') , 'unifont-'.font_version().'.ttf') }
 
 sub font_version { '15.0.01' }
 sub font_vstring { v15.0.01  }
