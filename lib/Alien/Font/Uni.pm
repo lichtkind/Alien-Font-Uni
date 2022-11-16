@@ -11,15 +11,16 @@ sub font_version { '15.0.01' }
 sub font_vstring { v15.0.01  }
 
 
+# Alien-Font-Uni - providing Unifont file or location
+
 1;
 
-__END__
 
 =pod
 
 =head1 NAME
 
-Alien-Font-Uni - providing Unifont file or location
+Chart - a series of charting modules
 
 =head1 SYNOPSIS 
 
