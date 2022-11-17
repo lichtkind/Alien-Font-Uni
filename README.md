@@ -4,7 +4,7 @@
 
 ### VERSION
  
-    0.2
+    0.3
 
 [on CPAN](https://metacpan.org/pod/Graphics-ColorNames-Pantone)
 
