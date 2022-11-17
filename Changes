@@ -2,7 +2,8 @@
 --------
     * = small distro fixes
     * & fixed changes file
-    * & github Readme file
+    * & streamline dist.ini
+    * & update github Readme file
     * & more tests
     * ? more POD
 
