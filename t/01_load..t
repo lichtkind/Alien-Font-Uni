@@ -5,8 +5,7 @@ BEGIN { unshift @INC, 'lib' };
 
 use Test::More tests => 1;
 
-eval 'use Alien::Font::Uni;';
-is($@, '', "package loaded" );
+use_ok( 'Alien::Font::Uni' );
 
 # ok(-e Alien::Font::Uni::get_path, 'font file present');
 
