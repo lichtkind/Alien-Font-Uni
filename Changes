@@ -1,6 +1,10 @@
 0.2 2022-11-17 lichtkind
 --------
-    * = init release
+    * = small distro fixes
+    * & fixed changes file
+    * & github Readme file
+    * & more tests
+    * ? more POD
 
 0.1 2022-11-17 lichtkind
 --------

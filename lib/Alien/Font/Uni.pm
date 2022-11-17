@@ -1,6 +1,6 @@
 
 package Alien::Font::Uni;
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 
 use File::ShareDir 'dist_dir';
 use File::Spec;
@@ -18,25 +18,27 @@ __END__
 
 =head1 NAME
 
-Alien::Font::Uni  -  provide Unifont truetype file or location
+Alien::Font::Uni  -  access to Unifont truetype file
 
 =head1 SYNOPSIS 
 
     use Alien::Font::Uni;
+    
     my $path = Alien::Font::Uni::get_path();
     my $vstring = Alien::Font::Uni::font_vstring();
     my $string  = Alien::Font::Uni::font_version();
 
 =head1 DESCRIPTION
 
-This module was created as an optional dependency for L<Chart> to have an unicode complete
-scaleable font file. Thus only the .ttf file is provided.
+This module was created as an optional dependency of L<Chart>
+to have access to an unicode complete scaleable font file. 
+Thus only the .ttf file is provided since this is what L<GD> can read.
 Distros might redirect to pre-existing resources.
 
 =head1 FONT
 
-Unifont 15, Copyright(c) 1998 - 2022 by	Roman Czyborra, Paul Hardy
-and contributors. Licensed under OFL 1.1
+Unifont 15, Copyright(c) 1998 - 2022 by Roman Czyborra, Paul Hardy
+and contributors - Licensed under OFL 1.1
 
 =head1 AUTHOR
 

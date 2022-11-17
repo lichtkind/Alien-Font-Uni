@@ -1,10 +1,10 @@
 ### NAME
 
-    Alien-Font-Uni - access to a unifont file
+    Alien-Font-Uni - access to Unifont truetype file
 
 ### VERSION
  
-    0.1
+    0.2
 
 [on CPAN](https://metacpan.org/pod/Graphics-ColorNames-Pantone)
 
@@ -57,13 +57,20 @@
 
 ### PREREQUISITES
 
-    
+    perl 5.10
+    File::ShareDir 1
+    File::Spec 3        
 
  
 [CHANGES](https://github.com/lichtkind/Alien-Font-Uni/blob/main/Changes)
 
 [CONTRIBUTING](https://github.com/lichtkind/Alien-Font-Uni/blob/main/CONTRIBUTING)
 
+
+### FONT
+
+    Unifont 15, Copyright(c) 1998 - 2022 by Roman Czyborra, Paul Hardy
+    and contributors - Licensed under OFL 1.1
 
 ### AUTHOR
 
