@@ -3,8 +3,7 @@ use strict;
 no warnings 'once';
 BEGIN { unshift @INC, 'lib' };
 
-use Test::More tests => 2;
-use Test::NoWarnings;
+use Test::More tests => 1;
 
 eval 'use Alien::Font::Uni;';
 is($@, '', "package loaded" );

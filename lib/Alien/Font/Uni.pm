@@ -1,6 +1,6 @@
 
 package Alien::Font::Uni;
-our $VERSION = '0.0_1';
+our $VERSION = '0.1';
 
 use File::ShareDir 'dist_dir';
 use File::Spec;
@@ -18,7 +18,7 @@ __END__
 
 =head1 NAME
 
-Alien::Font::Uni  -  provide Unifont trutype file or location
+Alien::Font::Uni  -  provide Unifont truetype file or location
 
 =head1 SYNOPSIS 
 
