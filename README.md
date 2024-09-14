@@ -6,7 +6,7 @@
  
     0.3
 
-[on CPAN](https://metacpan.org/pod/Graphics-ColorNames-Pantone)
+[on CPAN](https://metacpan.org/pod/Alien::Font::Uni)
 
     This is the landing page for the user documentation.
     There is also a download link on the left side under "Tools".
